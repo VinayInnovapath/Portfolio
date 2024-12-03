@@ -122,7 +122,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 <section id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
+      Hi, my name is <span class="text-color-main">Vinay</span>
       <br />
       I'm the Unknown Developer.
     </h1>
@@ -225,14 +225,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
         >
           See Live
         </a>
-        <a
-          rel="noreferrer"
-          target="_blank"
-          class="cta-btn text-color-main"
-          href="#!"
-        >
-          Source Code
-        </a>
+       
       </div>
     </div>
     <div class="col-lg-8 col-sm-12">
